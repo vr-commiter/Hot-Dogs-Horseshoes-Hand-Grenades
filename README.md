@@ -1,8 +1,8 @@
 ### Import r2modman
 
-下载[H3VR_TrueGear](https://static.truegear.cn/H3VR/H3VR_TrueGear.rar)
+DownLoad[H3VR_TrueGear](https://static.truegear.cn/H3VR/H3VR_TrueGear.rar)
 
-点击**settings** - 点击**Browse profile folder**
+Click**settings** - **Browse profile folder**
 ![](https://static.truegear.cn/bbs/H3VR/img1.gif)
-选择**“BepInEx”**文件夹 - 选择**“plugins”**文件夹 - 把下载的mod文件拖入文件夹中
+Click“BepInEx” - **“plugins”** - Drag the downloaded mod file into the folder
 ![](https://static.truegear.cn/bbs/H3VR/img2.gif)
