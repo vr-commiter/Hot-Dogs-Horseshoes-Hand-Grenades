@@ -1,4 +1,4 @@
-### r2modman导入（非r2modman玩家请忽略）
+### Import r2modman
 
 下载[H3VR_TrueGear](https://static.truegear.cn/H3VR/H3VR_TrueGear.rar)
 
